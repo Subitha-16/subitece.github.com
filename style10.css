@@ -1,0 +1,62 @@
+body
+{
+	background: url(images/img31.jpg) no-repeat center center fixed; 
+        background-size: cover;
+}
+
+
+
+
+
+.description-container
+{
+	max-width: 600px;
+	margin:60px auto 30px;
+
+        
+
+
+}
+.container h3
+{
+	text-align: center;
+	color: white;
+font-size: 50px
+
+}
+.description-container p
+{
+	text-align: justify;
+	font-size: 20px;
+
+	color: white;
+	margin-bottom: 20px;
+
+}
+.description-container .floating-image
+{
+	max-width: 400px;
+}
+.description-container .floating-image.left
+{
+	
+	float: left;
+	
+	margin- left: 10px;
+	margin-bottom: 30px;
+}
+.description-container .floating-image.left
+{
+	float: left;
+	margin-right: 10px;
+	
+
+	
+	margin-bottom: 30px;
+}
+.description-container .floating-image.left
+{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 30px;
+}
